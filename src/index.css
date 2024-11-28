@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap');
+
+body{
+    font-family: "Lexend", sans-serif;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap');
+
+.fira-sans{
+    font-family: "Fira Sans", sans-serif;
+}
